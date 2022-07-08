@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\APIBookstore",
+    "\\APIBookstore\\bin",
+    "\\APIBookstore\\bin\\Debug",
+    "\\APIBookstore\\Models",
+    "\\APIBookstore\\obj"
+  ],
+  "SelectedNode": "\\APIBookstore\\Models\\todoContext.cs",
+  "PreviewInSolutionExplorer": false
+}
